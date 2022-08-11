@@ -1,2 +1,7 @@
-# SomePocsuitePoc
-SomePocsuitePoc
+#
+> 一些漏洞的POC整理收集, 仅供本地学习使用！！
+使用时请注意遵守相关法律规定！本工具/资料仅供本地学习使用！！
+> 
+> 
+# 参考
+https://github.com/Phuong39/2022-HW-POC
